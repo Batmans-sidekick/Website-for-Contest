@@ -1,1 +1,6 @@
 h1 {color: black; font-size: 30px; text-align: center; font-family: verdana; }
+h2 {color: black; font-size: 22px; text-align: center; font-family:verdana }
+img.resize {width: 25%; height: auto;}
+div.par {text-align: center; font-family: verdana}
+ul.right {text-align: right; font-family: verdana}
+ul.left {text-align: left; font-family: verdana }
