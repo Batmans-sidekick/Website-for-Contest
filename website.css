@@ -73,5 +73,16 @@ ul.left {text-align: left; font-family: verdana }
 
 
 .border-right {
-    border-right: 1px solid white;
+    border-right: 1px white;
+}
+
+.footer {
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 20px;
+}
+
+.resa {
+    font-family: 'Rasa', serif;
 }
