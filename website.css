@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+e<<<<<<< HEAD
 background {
     width: 100%;
     height: 50%;
@@ -69,3 +69,20 @@ div.par {text-align: center; font-family: verdana}
 ul.right {text-align: right; font-family: verdana}
 ul.left {text-align: left; font-family: verdana }
 >>>>>>> 8ea4653750ee01a4c6a05858991a401d6093893e
+
+
+
+.border-right {
+    border-right: 1px white;
+}
+
+.footer {
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 20px;
+}
+
+.resa {
+    font-family: 'Rasa', serif;
+}
