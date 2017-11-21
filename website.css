@@ -69,3 +69,9 @@ div.par {text-align: center; font-family: verdana}
 ul.right {text-align: right; font-family: verdana}
 ul.left {text-align: left; font-family: verdana }
 >>>>>>> 8ea4653750ee01a4c6a05858991a401d6093893e
+
+
+
+.border-right {
+    border-right: 1px solid white;
+}
